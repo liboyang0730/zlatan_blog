@@ -1,2 +1,2 @@
-# PythonStudy
-For Python Study
+# Zlatan Blog
+For database study.
